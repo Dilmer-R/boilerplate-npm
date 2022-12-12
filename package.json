@@ -1,6 +1,10 @@
 {
-	"name": "fcc-learn-npm-package-json",
 	"author": "Dilmer Rojas",
+	"description": "This is a excelent project",
+	"keywords": ["freecodecamp", "mayor", "words"],
+	"license": "MIT",
+	"version": "1.2.0",
+	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
